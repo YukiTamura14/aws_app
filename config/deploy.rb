@@ -2,7 +2,7 @@
 lock '3.6.0'
 
 # デプロイするアプリケーション名
-set :application, 'aws_app'
+set :application, 'achieve'
 
 # cloneするgitのレポジトリ（xxxxxxxx：ユーザ名、yyyyyyyy：アプリケーション名）
 set :repo_url, 'git@github.com:YukiTamura14/aws_app.git'
